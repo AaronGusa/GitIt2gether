@@ -11489,3 +11489,7 @@ p {
 .address strong {
   font-size: 1.2rem;
 }
+
+.brand {
+  color: #FF0000;
+}
